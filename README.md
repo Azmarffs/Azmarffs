@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azmar Kashif</h1>
 <h3 align="center">A good learner.</h3>
-<img align="right" alt="Coding" width="400" src="https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*qG18a09h0wSBZjPZlwUJnw.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azmarffs&label=Profile%20views&color=0e75b6&style=flat" alt="azmarffs" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
