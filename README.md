@@ -15,16 +15,18 @@
 <h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm Azmar Kashif</h1>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Software+Engineer;Full+Stack+Developer;Cloud+Engineer;DSA+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=A+Open-source+Contributor;Computer+Science+Student;Full+Stack+Developer;Cloud+Engineer;DSA+Learner;IT+Enthusiast;" alt="Typing SVG" />
 </h3>
 
-<h3 align="center"><strong> A Passionate Full Stack Web Developer from Pakistan  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
+<h3 align="center"><strong> A Passionate Full Stack Web Developer from Pakistan  <img src="https://cdn.pixabay.com/animation/2022/09/06/03/13/03-13-18-245_512.gif" width="30"></strong> </h3>
 
 <br><br>
 
 <img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Azmarffs&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="Azmarffs" /> </p>
+
+
 
 - 🌱 I'm currently learning **Three.js**
 
@@ -35,6 +37,8 @@
 - 👯 I'm looking to collaborate on **open-source projects related to Web Development**
 
 - 👀 I'm interested in **Web Development, Blockchain, and DSA**
+  
+- ⚡ Fun fact about me **actually there aint one**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
