@@ -161,9 +161,9 @@
     <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
         
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azmarffs/Azmarffs/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azmarffs/Azmarffs/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Azmarffs/Azmarffs/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Azmarffs/Azmarffs/blob/main/assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Azmarffs/Azmarffs/blob/main/assets/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Azmarffs/Azmarffs/blob/main/assets/github-contribution-grid-snake.svg" />
 </picture>
     </td>
     </tr>
