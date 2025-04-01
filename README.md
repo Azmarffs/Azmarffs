@@ -18,7 +18,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=A+Open-source+Contributor;Computer+Science+Student;Full+Stack+Developer;Cloud+Engineer;DSA+Learner;IT+Enthusiast;" alt="Typing SVG" />
 </h3>
 
-<h3 align="center"><strong> A Passionate Full Stack Web Developer from Pakistan  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
+<h3 align="center"><strong> A Passionate Full Stack Web Developer from Pakistan  <img src="https://cdn.pixabay.com/animation/2022/09/06/03/13/03-13-18-245_512.gif" width="30"></strong> </h3>
 
 <br><br>
 
